@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parallax-prac/static/css/main.2983aac3.css",
+    "main.js": "/parallax-prac/static/js/main.9d85f1cb.js",
+    "static/media/f2.jpg": "/parallax-prac/static/media/f2.e3ae51c503c11b7fa6ab.jpg",
+    "static/media/f1.jpg": "/parallax-prac/static/media/f1.d3ee4900643393d8e5ff.jpg",
+    "static/media/f5.jpg": "/parallax-prac/static/media/f5.cd3bcc774602282c7baf.jpg",
+    "index.html": "/parallax-prac/index.html",
+    "main.2983aac3.css.map": "/parallax-prac/static/css/main.2983aac3.css.map",
+    "main.9d85f1cb.js.map": "/parallax-prac/static/js/main.9d85f1cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2983aac3.css",
+    "static/js/main.9d85f1cb.js"
+  ]
+}
